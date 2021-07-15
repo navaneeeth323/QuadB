@@ -1,0 +1,14 @@
+.div-main {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.number {
+    font-size:80px;
+}
+
+.main-text , .subtext {
+   color: #75716E
+}

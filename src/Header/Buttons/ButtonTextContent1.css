@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+.text-content-ul {
+    
+    list-style: none;
+    position:absolute;
+    background: #fff;
+    
+}
+
+.text-content-ul li {
+   background: #fff;
+   color:#000;
+   margin: auto;
+   align-items: center;
+   padding:4px 24px;
+}

@@ -1,0 +1,14 @@
+.header-class {
+    background: #191D28;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:15px;
+}
+
+@media screen and (max-width:1000px) {
+  .header-class {
+      flex-direction: column;
+      align-items: center;
+    }
+}

@@ -1,0 +1,15 @@
+.footer-text {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    font: 12px;
+}
+
+.footer-text div {
+    margin:5px;
+}
+.footer-text div span {
+    margin:5px;
+}
+

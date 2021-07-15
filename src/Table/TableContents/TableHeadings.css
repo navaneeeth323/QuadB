@@ -1,0 +1,12 @@
+.table-headings1 {
+    color:#808282;
+    font-weight: 900;
+    font-size:24px;
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:space-between;
+    background: #191D28;
+    margin:10px 10px;
+}

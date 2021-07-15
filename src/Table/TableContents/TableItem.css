@@ -1,0 +1,12 @@
+.table-headings {
+    width:100%;
+    background: #2E3241;
+    font-weight: 900;
+    font-size: 24px;
+    margin:10px 10px;
+    padding:5px;
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:space-between;
+}
